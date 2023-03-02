@@ -11,3 +11,6 @@
 ```
 console.log("Alaa is cool lol")
 ```
+- [x] Be cool
+- [ ] Graduate
+- [ ] Get Money
